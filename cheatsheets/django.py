@@ -134,6 +134,3 @@ my-project/
 		templates/
 		media/
 		db
-
-
-
