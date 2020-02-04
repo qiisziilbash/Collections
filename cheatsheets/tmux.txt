@@ -1,0 +1,20 @@
+# CB = Ctrl + b
+
+#Shortcuts
+CB + %		# splits horizantally
+CB + "		# splits vertically
+CB + z		# zooms in and out
+CB + Arrows	# navigate between panes
+CB + c		# creates a new window
+CB + 3		# goes to window number 3
+CB + d		# detaches from the session without closing
+tmux ls		# lists the sessions
+tmux new -s s	# creates a new session calles s
+tumx att -t 1	# attaches to the session 1
+CB + Ctrl+Arrow # resize the panes
+CB + s		# shows the lis of windows
+exit		# exits from the current pane
+
+#Commands
+CB: setw synchronize-panes on			# synchs the panes, commands will run in all panes
+CB: setw synchronize-panes off			# turns of the sychronization

@@ -100,11 +100,40 @@ django-admin version                     # display the current django version
 
 
 # 1. $ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py; python3 get-pip.py
-# 2. $ pip install django						
+# 2. $ pip install django
 # 3. $ pip install virtualenv
 # 4. $ mkdir django-projects
-# 5. $ cd django-projects  
-# 6. $ virtualenv venv 								
-# 7. $ source venv/bin/activate								
-# 8. $ django-admin startproject myproject					
+# 5. $ cd django-projects
+# 6. $ virtualenv venv
+# 7. $ source venv/bin/activate
+# 8. $ django-admin startproject myproject
 # 9. $ python manage.py runserver
+
+
+# *****************************************************************************
+# Project Structure in django (From "two scoops of django" book)
+# *****************************************************************************
+
+
+my-project/
+	.gitignore
+	docs/
+	Readme
+	venv/
+	requirements.txt
+	project/
+		manage.py
+		app1/
+	        	templates/
+				app1/
+			static/
+				app1/
+		app2/
+			...
+		static/
+		templates/
+		media/
+		db
+
+
+
