@@ -1,0 +1,26 @@
+=====================
+ctrl+z 									>>> will suspend session and goes back to the shell
+fg									>>> switch back to the suspended session of vim
+:wq									>>> quit + save
+:set number								>>> set line number
+:set relativenumber							>>> set relative line number
+=====================
+gg									>>> go to the begining of the file
+G									>>> go to the bottom of the line
+H,M,L									>>> go to the top, middle, end line of the window
+w 									>>> go to the next word
+HH
+^,$									>>> go to the begining and end of the line
+I,A									>>> same but puts u insert mode
+:earlier 2m, :later 2m							>>> goes 2 mins earlier or later
+=====================
+commands: d,c,y,v
+motions: i,a,t
+=====================
+Examples
+=====================
+caw >> change all the word (so puts u in the insert mode)
+di{ >> deletes inside of the {
+da{ >> it also deletes the {}
+=====================
+dd, yy, p >> cut, copy, paste line
