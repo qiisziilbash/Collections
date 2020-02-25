@@ -24,13 +24,14 @@ git log                      # shows the log of commits
 git commit -m "msg"          # commit changes with a msg
 git push my-remote my-branch # pushes the commits to the my-remote in my-branch (does not push the tags)
 
-git tag                           # shows all the tags
-git tag -a v1.0 -m "msg"          # creates an annotated tag
-git show v1.0                     # shows the description of version-1.0 tag
-git tag --delete v1.0             # deletes the tag in local directory
-git push --delete my-remote v1.0  # deletes the tag in my-remote (be carefore to not delete a branch)
-git push my-remote my-branch v1.0 # push v1.0 tag to my-remote in my-branch
-git fetch --tags                  # pulls the tags from remote
+git tag                           	# shows all the tags
+git tag -a v1.0 -m "msg"          	# creates an annotated tag
+git show v1.0                     	# shows the description of version-1.0 tag
+git tag --delete v1.0             	# deletes the tag in local directory
+git push --delete my-remote v1.0  	# deletes the tag in my-remote (be carefore to not delete a branch)
+git push my-remote my-branch v1.0 	# push v1.0 tag to my-remote in my-branch
+git fetch --tags                  	# pulls the tags from remote
+git checkout tags/my-tag -b my-branch	# checkout to my-branch in my-tag
 
 git pull my-remote my-branch      # pulls and tries to merge my-branch from my-remote to the current branch
 
