@@ -25,7 +25,7 @@
 =======================
 #013. The Fall (La Chute) –Albert Camus
 =======================
-#014. The Stranger (L’Étranger, often translated as The Outsider) –Albert Camus
+#014. The S6tranger (L’Étranger, often translated as The Outsider) –Albert Camus
 =======================
 #015. Sex and Character –Otto Weininger
 =======================
@@ -80,4 +80,6 @@
 #040. Food of the Gods –Terence McKenna
 =======================
 #041. One hundred years of Solitude –Gabriel Garcia Marquez
+=======================
+#042. 1984 --George Orwell
 
