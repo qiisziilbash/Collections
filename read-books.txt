@@ -92,3 +92,6 @@
 #046. The Bet --Anton Chekhov
 =======================
 #047. A Dreadful Night -- Anton Chekhov
+=======================
+#048. Sapiens: A Brief History of Humankind --Yuval Noah Harari
+=======================
