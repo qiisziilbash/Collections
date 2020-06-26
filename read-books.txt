@@ -101,3 +101,5 @@
 =======================
 #051. Of Mice and Men --John Steinbeck
 =======================
+#052. The Metamorphosis -- Franz Kafka
+=======================
