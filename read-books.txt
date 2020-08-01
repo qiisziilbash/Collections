@@ -1,4 +1,4 @@
-=======================
+﻿=======================
 #001. Alchemist –Paulo Coelho
 =======================
 #002. White Fang –Jack London
@@ -25,7 +25,7 @@
 =======================
 #013. The Fall (La Chute) –Albert Camus
 =======================
-#014. The S6tranger (L’Étranger, often translated as The Outsider) –Albert Camus
+#014. The Stranger (L’Étranger, often translated as The Outsider) –Albert Camus
 =======================
 #015. Sex and Character –Otto Weininger
 =======================
@@ -102,4 +102,6 @@
 #051. Of Mice and Men --John Steinbeck
 =======================
 #052. The Metamorphosis -- Franz Kafka
+=======================
+#053. Grapes of Wrath --John Stienbeck
 =======================
