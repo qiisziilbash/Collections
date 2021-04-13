@@ -67,31 +67,31 @@
 =======================
 #034. The Power of Now –Eckhart Tolle (Highly Recommended)
 =======================
-#035. Guardians of Being –Eckhart Tolle
+#035. Guardians of Being --Eckhart Tolle
 =======================
-#036. Island –Aldous Huxley
+#036. Island --Aldous Huxley
 =======================
-#037. The Great Divorce — C. S. Lewis
+#037. The Great Divorce --C. S. Lewis
 =======================
-#038. The pilgrimage –Paulo Coelho
+#038. The pilgrimage --Paulo Coelho
 =======================
-#039. What men live by –Leo Tolstoy
+#039. What men live by --Leo Tolstoy
 =======================
-#040. Food of the Gods –Terence McKenna
+#040. Food of the Gods --Terence McKenna
 =======================
-#041. One hundred years of Solitude –Gabriel Garcia Marquez
+#041. One hundred years of Solitude --Gabriel Garcia Marquez
 =======================
 #042. 1984 --George Orwell
 =======================
 #043. Finding Flow --Mihaly Csikszentmihalyi
 =======================
-#044. East of Eden --John Stienbeck
+#044. East of Eden --John Stienbeck (A pretty good one!)
 =======================
-#045. The Catcher in the Rye -- J. D. Salinger
+#045. The Catcher in the Rye --J. D. Salinger
 =======================
 #046. The Bet --Anton Chekhov
 =======================
-#047. A Dreadful Night -- Anton Chekhov
+#047. A Dreadful Night --Anton Chekhov
 =======================
 #048. Sapiens: A Brief History of Humankind --Yuval Noah Harari
 =======================
@@ -99,9 +99,9 @@
 =======================
 #050. What is to be done? --Leo Tolstoy
 =======================
-#051. Of Mice and Men --John Steinbeck
+#051. Of Mice and Men --John Steinbeck (All-time favorite!)
 =======================
-#052. The Metamorphosis -- Franz Kafka
+#052. The Metamorphosis --Franz Kafka
 =======================
 #053. Grapes of Wrath --John Stienbeck
 =======================
@@ -109,4 +109,20 @@
 =======================
 #055. Memoirs of a Geisha --Arthur Golden
 =======================
-#056. I never promised you a rose garden --Jonne Greenberg
+#056. I never promised you a rose garden --Jonne Greenberg (Did not finish; was boring!)
+=======================
+#057. Anna Karenina --Leo Tolstoy (Did not finish; was boring!)
+=======================
+#58. Listening to Prozac --Peter D. Kramer
+=======================
+#59. Guns, Germs, and Steel --Jared Diamond (Listened to a 1 hr summary)
+=======================
+#60. Darwin's Dangerous Idea --Daniel Dennett (Listened to a 1 hr summary)
+=======================
+#61. The Gene: An Intimate History --Siddhartha Mukherjee (Listened to a 1 hr summary)
+=======================
+#62. Eichmann in Jerusalem: A Report on the Banality of Evil --Hannah Arendt (Listened to a 1 hr summary)
+=======================
+#63. Genghis Khan and the Making of the Modern World --Jack Weatherford (Listened to a 1 hr summary)
+=======================
+
