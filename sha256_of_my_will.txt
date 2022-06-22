@@ -1,2 +1,0 @@
-shasum -a 256 will.txt
-ae5ba7441f5baa432982c5559c7446912ad8010997b740aab1ad4f74e394eba2
