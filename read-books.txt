@@ -85,7 +85,7 @@
 =======================
 #043. Finding Flow --Mihaly Csikszentmihalyi
 =======================
-#044. East of Eden --John Stienbeck (A pretty good one!)
+#044. East of Eden --John Steinbeck (A pretty good one!)
 =======================
 #045. The Catcher in the Rye --J. D. Salinger
 =======================
@@ -95,7 +95,7 @@
 =======================
 #048. Sapiens: A Brief History of Humankind --Yuval Noah Harari
 =======================
-#049. The Fable of creation --Sadegh Hedayat
+#049. The Fable of Creation --Sadegh Hedayat
 =======================
 #050. What is to be done? --Leo Tolstoy
 =======================
@@ -103,7 +103,7 @@
 =======================
 #052. The Metamorphosis --Franz Kafka
 =======================
-#053. Grapes of Wrath --John Stienbeck
+#053. Grapes of Wrath --John Steinbeck
 =======================
 #054. Blindness --Jose Saramago
 =======================
@@ -139,29 +139,29 @@
 =======================
 #070. Danny, the Champion of the World --Roald Dahl (Lovely)
 =======================
-#071. Fantastic Mr. Fox --Roald Dahl (This is really a children book!)
+#071. Fantastic Mr. Fox --Roald Dahl (This is really a children's book!)
 =======================
 #072. The Master and Margarita --Mikhail Bulgakov (Second time trying; still could not connect; left un-finished)
 =======================
 #073. Brida --Paulo Coelho (Definitely not as good as his other books!)
 =======================
-#074. The Twits --Roald Dahl (Hilarious, listen to this audiobook in utube: https://www.youtube.com/watch?v=PxHcSp4AJrc)
+#074. The Twits --Roald Dahl (Hilarious, listen to this audiobook on youtube: https://www.youtube.com/watch?v=PxHcSp4AJrc)
 =======================
 #075. Goodbye, Things: The New Japanese Minimalism --Fumio Sasaki
 =======================
 #076. The Plague --Albert Camus
 =======================
-#077. The Pearl --John Stienbeck
+#077. The Pearl --John Steinbeck
 =======================
-#078. Cannary Row --John Stienbeck
+#078. Cannary Row --John Steinbeck
 =======================
-#079. The Red pony --John Stienbeck
+#079. The Red Pony --John Steinbeck
 =======================
-#080. Bombs Away --John Stienbeck (Not Finishes; I did not expect this from J.S.)
+#080. Bombs Away --John Steinbeck (Not Finishes; I did not expect this from J.S.)
 =======================
-#081. Cup of Gold --John Stienbeck
+#081. Cup of Gold --John Steinbeck
 =======================
-#082. A Russian Journal --John Stienbeck
+#082. A Russian Journal --John Steinbeck
 =======================
 #083. I'll turn off the lights --Zoya Pirzad
 =======================
@@ -173,7 +173,7 @@
 =======================
 #087. The Queen of Swords --R. S. Belcher
 =======================
-#088. The stray Dog (Sag e Velgard) --Sadegh Hedayat
+#088. The Stray Dog (Sag e Velgard) --Sadegh Hedayat
 =======================
 #089. Breath: The New Science of a Lost Art --James Nestor
 =======================
@@ -189,10 +189,12 @@
 =======================
 #095. The Forgotten Village --John Steinbeck
 =======================
-#096. The art of the war --Sun Tzu (Very redundant)
+#096. The Art of the War --Sun Tzu (Very redundant)
 =======================
 #097. Into thin air --Jon Krakauer
 =======================
-#098. 
+#098. The Boy Who Could Change the World --Aaron Swartz
+=======================
+#099. 
 
 
