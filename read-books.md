@@ -157,7 +157,7 @@
 ----------------------------------------------------------------------------------------------------
 079. The Red Pony --John Steinbeck
 ----------------------------------------------------------------------------------------------------
-080. Bombs Away --John Steinbeck (Not Finishes; I did not expect this from J.S.)
+080. Bombs Away --John Steinbeck (Not Finished; I did not expect this from J.S.)
 ----------------------------------------------------------------------------------------------------
 081. Cup of Gold --John Steinbeck
 ----------------------------------------------------------------------------------------------------
@@ -202,6 +202,8 @@
 101. To Kill a Mockingbird --Harper Lee (Did not finish; Was not interesting enough)
 ----------------------------------------------------------------------------------------------------
 102. What If?: Serious Scientific Answers to Absurd Hypothetical Questions --Randall Munroe 
+----------------------------------------------------------------------------------------------------
+103. Once There Was a War --John Steinbeck (do not commit to reading **everything** from one person)
 ----------------------------------------------------------------------------------------------------
 
 
