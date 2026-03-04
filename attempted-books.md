@@ -12,3 +12,5 @@
 ----------------------------------------------------------------------------------------------------
 007. My name is read --Orhan Pamuk (Too much focused on miniaturists' lives)
 ----------------------------------------------------------------------------------------------------
+008. Asshole No More: A Self-help Guide for Recovering Assholes --Xavier Crement (Yellow Book :))
+
